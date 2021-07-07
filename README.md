@@ -1,10 +1,6 @@
 # Projeto ProductManager
 
-O objetivo deste mini projeto é fornecer uma api restfull para gerenciar
-o catálogo de produtos de um ecommerce.
-
-### O que já está pronto:
-A api de produtos conforme a [documentação abaixo](#api-documentation)
+O objetivo deste mini projeto é implementar tarefas adicionais à api restfull deste repositório, que consiste em gerenciar o catálogo de produtos de um e-commerce.
 
 ### Tarefas:
 1. Adicionar paginação a api de produtos
@@ -78,6 +74,9 @@ com o valor padrão de 20 itens por página, podendo ser alterado via parâmetro
 OBS:
 - Nas tarefas 2 e 3 pode ser usado uma gem para facilitar o trabalho
 - Já existem specs para o código atual, o candidato deverá adaptalas as mudanças solicitadas e adicionar novas quando necessário.
+
+### O que já está pronto:
+A api de produtos conforme a [documentação abaixo](#api-documentation)
 
 ## Rodando o projeto:
 
