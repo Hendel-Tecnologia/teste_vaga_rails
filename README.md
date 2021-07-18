@@ -10,7 +10,7 @@ com o valor padrão de 20 itens por página, podendo ser alterado via parâmetro
 
 3. Permitir filtrar por qualquer uma das colunas, podendo usar todas as comparações possíveis (contém, igual, diferente, maior, maior ou igual, menor...)
 
-4. Criar api de produtos relacionados, em uma relação de n..n, onde um produto pode ter um ou mais produtos relacionados, sendo necessário validar que um produto não pode ser linkado a ele próprio. a api permitirá adicionar e remover relações de produtos
+4. Criar endpoint de produtos relacionados, em uma relação de n..n com produto, onde um produto pode ter um ou mais produtos relacionados, sendo necessário validar que um produto não pode ser linkado a ele próprio. a api permitirá adicionar e remover relações de produtos
 
    `POST /products/:product_id/related_products`
    ```json
